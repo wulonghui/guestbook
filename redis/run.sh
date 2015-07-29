@@ -1,3 +1,5 @@
+#!/bin/bash
+
 MODE=${MODE:-master}
 
 if [ "$MODE" == "master" ]; then
